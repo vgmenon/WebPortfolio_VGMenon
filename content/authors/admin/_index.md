@@ -112,4 +112,4 @@ social:
 highlight_name: true
 ---
 
-I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump.I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.{style="text-align: justify;"}
+I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump.I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
