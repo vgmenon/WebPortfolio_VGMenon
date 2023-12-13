@@ -108,6 +108,34 @@ skills:
         description: ''
         icon: camera-retro
         icon_pack: fas
+  - name: Languages
+    color: '#eeac03'
+    color_border: '#f0bf23'
+    items:
+      - name: English
+        description: ''
+        icon: person-hiking
+        icon_pack: fas
+      - name: Malayalam
+        description: ''
+        icon: cat
+        icon_pack: fas
+      - name: Tamil
+        description: ''
+        icon: camera-retro
+        icon_pack: fas
+      - name: German
+        description: ''
+        icon: 
+        icon_pack: fas
+      - name: Hindi
+        description: ''
+        icon: camera-retro
+        icon_pack: fas
+      - name: Sanskrit
+        description: ''
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
