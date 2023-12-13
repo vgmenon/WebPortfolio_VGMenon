@@ -82,7 +82,8 @@ sections:
         - name: Marine Chemistry
           tag: rainbow
         - name: Carbon Sequestration
-          tag: Clay carbon, ERW
+          tag: Clay carbon
+          tag: ERW
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
