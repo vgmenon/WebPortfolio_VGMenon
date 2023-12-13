@@ -32,10 +32,8 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              * Plan and conduct microcosm experiments (ship-board as well as roller tank experiments in laboratory) and mesocosm experiments to understand the role of heterotrophic bacteria in carbon flux in the surface ocean in the presence of clay minerals.
+              * Methodology: Spectrophotometry, Microscopy, Solid Phase Extraction, Mass Spectrometry
         - title: Research Intern and Working Student
           company: Marine Biogeochemistry, Alfred Wegener Institute
           company_url: ''
@@ -43,7 +41,9 @@ sections:
           location: Bremerhaven, Germany
           date_start: '2020-08-01'
           date_end: '2022-05-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:
+              * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
+              * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
         - title: Undergraduate Research Assistant
           company: Dept. of Earth and Environmental Sciences, Jacobs University Bremen
           company_url: ''
@@ -51,7 +51,14 @@ sections:
           location: Bremen, Germany
           date_start: '2020-08-01'
           date_end: '2022-05-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:
+              OceanLab
+                * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Settling column, Aqualogger, and Water-column simulator.
+                * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
+              Geochemistry Lab
+                * Preparation of bottles for sample handling and processing, following certain acid-bath/wash and GEOTRACES protocol as needed.
+                * Setting up ICP-MS and ICP-OES and sample preparation.
+                * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.
     design:
       columns: '2'
   - block: portfolio
