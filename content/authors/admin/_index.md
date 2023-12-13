@@ -50,37 +50,30 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: ''
         icon: python
         icon_pack: fab
       - name: MATLAB & R
         description: ''
-        percent: ''
         icon: chart-line
         icon_pack: fas
       - name: GIS [Arc- & Q-]
         description: ''
-        percent: ''
         icon: globe
         icon_pack: fas
       - name: ImageJ Fiji
         description: ''
-        percent: ''
         icon: 
         icon_pack: fas
       - name: Adobe Creative Cloud
         description: ''
-        percent: ''
         icon:
         icon_pack: fas
       - name: Microsoft Office
         description: ''
-        percent: ''
         icon: 
         icon_pack: fas
       - name: LaTeX
         description: ''
-        percent: ''
         icon: 
         icon_pack: fas
   - name: Analytical training
@@ -93,12 +86,10 @@ skills:
         icon_pack: fas
       - name: TIMS
         description: ''
-        percent: ''
         icon:
         icon_pack: fas
       - name: AdCS-Voltammetry
         description: ''
-        percent: 
         icon: 
         icon_pack: fas
   - name: Hobbies
@@ -107,17 +98,14 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
         icon: person-hiking
         icon_pack: fas
       - name: Painting and Drawing
         description: ''
-        percent: 100
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
         icon: camera-retro
         icon_pack: fas
 
