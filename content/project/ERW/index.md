@@ -1,15 +1,15 @@
 ---
-title: Understanding interaction between clay minerals and bacteria in the Biological Carbon Pump
-summary: An example of using the in-built project page.
+title: Enhanced Silicate Weathering
+summary: 
 tags:
-  - Clay carbon
-date: '2016-04-27T00:00:00Z'
+  - ERW
+date: '2023-12-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -29,27 +29,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
----
-title: Determining the distribution of Ni in the Rainbow hydrothermal vent using voltammetry
-summary: An example of using the in-built project page.
-tags:
-  - rainbow
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
