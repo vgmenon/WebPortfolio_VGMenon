@@ -11,7 +11,7 @@ last_name: Gokuladas Menon
 
 # Status emoji
 status:
-  icon: 
+  icon: dpine
 
 # Is this the primary user of the site?
 superuser: true
