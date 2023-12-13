@@ -76,38 +76,6 @@ skills:
         description: ''
         icon: 
         icon_pack: fas
-  - name: Analytical training
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: ICP-MS (trace elements) and ICP-OES (Major elements)
-        description: ''
-        icon: 
-        icon_pack: fas
-      - name: TIMS
-        description: ''
-        icon:
-        icon_pack: fas
-      - name: AdCS-Voltammetry
-        description: ''
-        icon: 
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        icon: person-hiking
-        icon_pack: fas
-      - name: Painting and Drawing
-        description: ''
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        icon: camera-retro
-        icon_pack: fas
   - name: Languages
     color: '#eeac03'
     color_border: '#f0bf23'
@@ -133,6 +101,36 @@ skills:
         icon: camera-retro
         icon_pack: fas
       - name: Sanskrit
+        description: ''
+        icon: camera-retro
+        icon_pack: fas
+  - name: Analytical training
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: ICP-MS (trace elements) and ICP-OES (Major elements)
+        description: ''
+        icon: 
+        icon_pack: fas
+      - name: TIMS
+        description: ''
+        icon:
+        icon_pack: fas
+      - name: AdCS-Voltammetry
+        description: ''
+        icon: 
+        icon_pack: fas
+  - name: Hobbies
+    items:
+      - name: Hiking
+        description: ''
+        icon: person-hiking
+        icon_pack: fas
+      - name: Painting and Drawing
+        description: ''
+        icon: cat
+        icon_pack: fas
+      - name: Photography
         description: ''
         icon: camera-retro
         icon_pack: fas
