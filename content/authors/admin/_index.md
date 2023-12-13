@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Earth Sciences
+role: Graduate Student in Earth and Environmental Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump.I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
-
 
 # Interests to show in About widget
 interests:
@@ -112,4 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump.I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
+I am a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump.I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
+{style="text-align: justify;"}
