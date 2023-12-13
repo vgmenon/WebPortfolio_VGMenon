@@ -89,7 +89,6 @@ skills:
     items:
       - name: ICP-MS (trace elements) and ICP-OES (Major elements)
         description: ''
-        percent: ''
         icon: 
         icon_pack: fas
       - name: TIMS
