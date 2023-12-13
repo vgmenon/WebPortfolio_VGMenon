@@ -41,7 +41,7 @@ sections:
           location: Bremerhaven, Germany
           date_start: '2020-08-01'
           date_end: '2022-05-31'
-          description:|2-
+          description: |2-
               * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
               * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
         - title: Undergraduate Research Assistant
