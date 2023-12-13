@@ -51,7 +51,7 @@ sections:
           location: Bremen, Germany
           date_start: '2020-08-01'
           date_end: '2022-05-31'
-          description:|2-
+          description: |2-
               OceanLab
                 * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Settling column, Aqualogger, and Water-column simulator.
                 * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
