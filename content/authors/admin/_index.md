@@ -50,18 +50,57 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: ''
         icon: python
         icon_pack: fab
       - name: MATLAB & R
         description: ''
-        percent: 70
+        percent: ''
         icon: chart-line
         icon_pack: fas
       - name: GIS [Arc- & Q-]
         description: ''
-        percent: 40
+        percent: ''
         icon: globe
+        icon_pack: fas
+      - name: ImageJ Fiji
+        description: ''
+        percent: ''
+        icon: 
+        icon_pack: fas
+      - name: Adobe Creative Cloud
+        description: ''
+        percent: ''
+        icon:
+        icon_pack: fas
+      - name: Microsoft Office
+        description: ''
+        percent: ''
+        icon: 
+        icon_pack: fas
+      - name: LaTeX
+        description: ''
+        percent: ''
+        icon: 
+        icon_pack: fas
+  - name: Analytical training
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: ICP-MS (trace elements) and ICP-OES (Major elements)
+        description: ''
+        percent: ''
+        icon: 
+        icon_pack: fas
+      - name: TIMS
+        description: ''
+        percent: ''
+        icon:
+        icon_pack: fas
+      - name: AdCS-Voltammetry
+        description: ''
+        percent: 
+        icon: 
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
