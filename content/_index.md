@@ -44,16 +44,6 @@ sections:
           description: |2-
               * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
               * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
-        - title: Research Intern and Working Student
-          company: Marine Biogeochemistry, Alfred Wegener Institute
-          company_url: ''
-          company_logo: AWI
-          location: Bremerhaven, Germany
-          date_start: '2020-08-01'
-          date_end: '2022-05-31'
-          description: |2-
-              * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
-              * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
         - title: Undergraduate Research Assistant
           company: Dept. of Earth and Environmental Sciences, Jacobs University Bremen
           company_url: ''
@@ -62,12 +52,11 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-05-31'
           description: |2-
-                * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Settling column, Aqualogger, and Water-column simulator.
-                * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
-                * Preparation of bottles for sample handling and processing, following certain acid-bath/wash and GEOTRACES protocol as needed.
-                * Setting up ICP-MS and ICP-OES and sample preparation.
-                * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.
-    design:
+              * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Settling column, Aqualogger, and Water-column simulator.
+              * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
+              * Preparation of bottles for sample handling and processing, following certain acid-bath/wash and GEOTRACES protocol as needed.
+              * Setting up ICP-MS and ICP-OES and sample preparation.
+              * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.    design:
       columns: '2'
   - block: portfolio
     id: projects
