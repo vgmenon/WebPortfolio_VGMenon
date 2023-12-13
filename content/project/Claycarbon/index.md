@@ -1,9 +1,9 @@
 ---
 title: Understanding interaction between clay minerals and bacteria in the Biological Carbon Pump
-summary: An example of using the in-built project page.
+summary: 
 tags:
   - Clay carbon
-date: '2016-04-27T00:00:00Z'
+date: '2023-12-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
