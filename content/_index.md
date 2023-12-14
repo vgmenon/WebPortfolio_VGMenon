@@ -56,7 +56,8 @@ sections:
               * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
               * Preparation of bottles for sample handling and processing, following certain acid-bath/wash and GEOTRACES protocol as needed.
               * Setting up ICP-MS and ICP-OES and sample preparation.
-              * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.    design:
+              * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.
+    design:
       columns: '2'
   - block: portfolio
     id: projects
@@ -89,6 +90,53 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: experience
+    id: experience
+    content:
+      title: Research Cruises
+      items:
+        - title: EN710 - Penobscot Bay Hg
+          company: RV Endeavor
+          company_url: ''
+          company_logo: dpine
+          location: Gulf of Maine, USA
+          date_start: '2023-10-31'
+          date_end: '2023-11-10'
+          description: |2-
+        - title: EN699 - Clay, carbon, oceans
+          company: RV Endeavor
+          company_url: ''
+          company_logo: dpine
+          location: Gulf of Maine, USA
+          date_start: '2023-04-01'
+          date_end: '2023-04-10'
+          description: |2-
+        - title: HE597 - JUB & POLMAR Graduate school educational cruise
+          company: RV Heincke
+          company_url: ''
+          company_logo: dpine
+          location: North Sea - Heligoland
+          date_start: '2022-04-22'
+          date_end: '2022-04-28'
+          description: |2-
+        - title: M176/2 - Rainbow nonboyant hydrothermal plume GEOTRACES study
+          company: RV Meteor
+          company_url: ''
+          company_logo: dpine
+          location: Rainbow hydrothermal vent field, MAR
+          date_start: '2022-08-30'
+          date_end: '2022-10-06'
+          description: |2-
+        - title: HE575 - Oceanography Field Lab
+          company: RV Heincke
+          company_url: ''
+          company_logo: dpine
+          location: German Bight
+          date_start: '2021-04-27'
+          date_end: '2021-04-30'
+          description: |2-
+    design:
+      columns: '2'
   - block: skills
     content:
       title: Skills
