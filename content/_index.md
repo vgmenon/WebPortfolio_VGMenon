@@ -98,7 +98,7 @@ sections:
         - title: EN710 - Penobscot Bay Hg
           company: RV Endeavor
           company_url: ''
-          company_logo: awi
+          company_logo: uri
           location: Gulf of Maine, USA
           date_start: '2023-10-31'
           date_end: '2023-11-10'
@@ -106,7 +106,7 @@ sections:
         - title: EN699 - Clay, carbon, oceans
           company: RV Endeavor
           company_url: ''
-          company_logo: awi
+          company_logo: uri
           location: Gulf of Maine, USA
           date_start: '2023-04-01'
           date_end: '2023-04-10'
