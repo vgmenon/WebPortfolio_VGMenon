@@ -98,7 +98,7 @@ sections:
         - title: EN710 - Penobscot Bay Hg
           company: RV Endeavor
           company_url: ''
-          company_logo: dpine
+          company_logo: end
           location: Gulf of Maine, USA
           date_start: '2023-10-31'
           date_end: '2023-11-10'
@@ -106,7 +106,7 @@ sections:
         - title: EN699 - Clay, carbon, oceans
           company: RV Endeavor
           company_url: ''
-          company_logo: dpine
+          company_logo: end
           location: Gulf of Maine, USA
           date_start: '2023-04-01'
           date_end: '2023-04-10'
@@ -114,7 +114,7 @@ sections:
         - title: HE597 - JUB & POLMAR Graduate school educational cruise
           company: RV Heincke
           company_url: ''
-          company_logo: dpine
+          company_logo: hnk
           location: North Sea - Heligoland
           date_start: '2022-04-22'
           date_end: '2022-04-28'
@@ -122,7 +122,7 @@ sections:
         - title: M176/2 - Rainbow nonboyant hydrothermal plume GEOTRACES study
           company: RV Meteor
           company_url: ''
-          company_logo: dpine
+          company_logo: mtr
           location: Rainbow hydrothermal vent field, MAR
           date_start: '2022-08-30'
           date_end: '2022-10-06'
@@ -130,7 +130,7 @@ sections:
         - title: HE575 - Oceanography Field Lab
           company: RV Heincke
           company_url: ''
-          company_logo: dpine
+          company_logo: hnk
           location: German Bight
           date_start: '2021-04-27'
           date_end: '2021-04-30'
