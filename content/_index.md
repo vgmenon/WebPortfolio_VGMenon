@@ -122,7 +122,7 @@ sections:
         - title: M176/2 - Rainbow nonboyant hydrothermal plume GEOTRACES study
           company: RV Meteor
           company_url: ''
-          company_logo: geomar
+          company_logo: geomar-logos-ids9ovgEuF
           location: Rainbow hydrothermal vent field, MAR
           date_start: '2022-08-30'
           date_end: '2022-10-06'
