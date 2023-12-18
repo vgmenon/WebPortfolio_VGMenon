@@ -51,6 +51,7 @@ skills:
       - name: Python
         description: ''
         icon: python
+        percent: 0
         icon_pack: fab
       - name: MATLAB & R
         description: ''
