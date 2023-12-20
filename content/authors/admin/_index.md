@@ -83,15 +83,15 @@ skills:
     items:
       - name: English
         description: ''
-        icon: person-hiking
+        icon: english
         icon_pack: fas
       - name: Malayalam
         description: ''
-        icon: cat
+        icon: malayalam
         icon_pack: fas
       - name: Tamil
         description: ''
-        icon: camera-retro
+        icon: tamil
         icon_pack: fas
       - name: German
         description: ''
@@ -99,11 +99,11 @@ skills:
         icon_pack: fas
       - name: Hindi
         description: ''
-        icon: camera-retro
+        icon: hindi
         icon_pack: fas
       - name: Sanskrit
         description: ''
-        icon: camera-retro
+        icon: sanskrit
         icon_pack: fas
   - name: Analytical training
     color: '#eeac02'
