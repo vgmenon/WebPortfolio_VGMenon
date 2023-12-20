@@ -1,5 +1,5 @@
 ---
-title: Bacteria-Clay interactions in the ocean : Clay, Carbon, Oceans
+title: Bacteria-Clay interactions in the ocean [Clay, Carbon, Oceans]
 summary: Understanding interaction between clay minerals and bacteria towards carbon export in the Biological Carbon Pump
 tags:
   - Clay-carbon-ocean
