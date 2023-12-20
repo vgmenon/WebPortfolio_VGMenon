@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: Follow the project
+  - icon: 
     icon_pack: 
-    name: 
+    name: Follow the project
     url: https://andrea-koschinsky.org/research-projects/rainbow/
 url_code: ''
 url_pdf: ''
