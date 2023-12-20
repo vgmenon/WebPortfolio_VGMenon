@@ -84,7 +84,6 @@ skills:
       - name: English
         description: ''
         icon: english
-        icon_pack: fas
       - name: Malayalam
         description: ''
         icon: malayalam
