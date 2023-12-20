@@ -1,5 +1,5 @@
 ---
-title: RainbowPlume- Nickel concentration in the Rainbow hydrothermal vent using voltammetry
+title: Nickel concentration in the Rainbow hydrothermal vent using voltammetry [RainbowPlume]
 summary: Determination of dissolved Ni concentrations in the non-buoyant plume samples using Adsorptive Cathodic Stripping Voltammetry.
 tags:
   - RainbowPlume
