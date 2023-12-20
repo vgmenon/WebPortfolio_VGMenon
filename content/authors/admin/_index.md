@@ -84,6 +84,7 @@ skills:
       - name: English
         description: ''
         icon: english
+        icon_pack: /assets/media/icons/brands
       - name: Malayalam
         description: ''
         icon: malayalam
