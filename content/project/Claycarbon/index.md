@@ -1,8 +1,8 @@
 ---
-title: Understanding interaction between clay minerals and bacteria in the Biological Carbon Pump
-summary: 
+title: Bacteria-Clay interactions in the ocean : Clay, Carbon, Oceans
+summary: Understanding interaction between clay minerals and bacteria towards carbon export in the Biological Carbon Pump
 tags:
-  - Clay carbon
+  - Clay-carbon-ocean
 date: '2023-12-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ image:
 links:
   - icon: 
     icon_pack: 
-    name: 
-    url: 
+    name: Follow the project
+    url: https://sites.dartmouth.edu/clay-carbon-ocean-sharmalab/
 url_code: ''
 url_pdf: ''
 url_slides: ''
