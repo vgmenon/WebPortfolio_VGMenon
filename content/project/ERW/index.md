@@ -1,12 +1,9 @@
 ---
-title: Enhanced Silicate Weathering
+title: Project Cardown - Enhanced Silicate Weathering
 summary: 
 tags:
   - ERW
 date: '2023-12-12T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
 
 image:
   caption: 
@@ -15,8 +12,8 @@ image:
 links:
   - icon: 
     icon_pack: 
-    name: 
-    url: 
+    name: Follow the project
+    url: https://www.carbon-drawdown.de/blog/2021-01-14-introducing-project-carbdown
 url_code: ''
 url_pdf: ''
 url_slides: ''
