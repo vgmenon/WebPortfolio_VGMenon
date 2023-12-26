@@ -145,6 +145,39 @@ sections:
       username: admin
     design:
       columns: '1'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: MS Earth Sciences
+          company: Dartmouth College
+          company_url: 'https://earthsciences.dartmouth.edu'
+          company_logo: dpine
+          location: New Hampshire, USA
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+              * Awards: Dartmouth Graduate Student Fellowship {2022-Present}
+        - title: BSc Earth and Environmental Sciences
+          company: Dept. of Earth and Environmental Sciences, Jacobs University Bremen
+          company_url: 'https://constructor.university/programs/undergraduate-education/earth-environmental-sciences'
+          company_logo: jub
+          location: Bremen, Germany
+          date_start: '2020-08-01'
+          date_end: '2022-05-31'
+          description: |2-
+              * Awards: Jacobs Merit Scholarship {2019-2022}
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
