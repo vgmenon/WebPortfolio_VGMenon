@@ -45,7 +45,7 @@ sections:
               * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
               * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
         - title: Undergraduate Research Assistant
-          company: Dept. of Earth and Environmental Sciences, Jacobs University Bremen
+          company: Jacobs University Bremen
           company_url: ''
           company_logo: jub
           location: Bremen, Germany
