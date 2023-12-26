@@ -28,3 +28,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
+  - name: Blog
+    url: 'https://sites.google.com/view/vgmenon/home'
+    weight: 80
