@@ -166,8 +166,9 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              * Awards: Dartmouth Graduate Student Fellowship {2022-Present} |
-                        Guarini School of Graduate and advanced studies travel award (ASLO-ASM'23)
+              Awards:
+              * Dartmouth Graduate Student Fellowship {2022-Present} |
+              * Guarini School of Graduate and advanced studies travel award (ASLO-ASM'23)
         - title: BSc Earth and Environmental Sciences
           company: Constructor (formerly Jacobs) University Bremen
           company_url: 'https://constructor.university/programs/undergraduate-education/earth-environmental-sciences'
