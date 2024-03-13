@@ -32,6 +32,7 @@ interests:
   - Marine biogeochemistry
   - Marine particle dynamics
   - Surface ocean carbon flux
+  - Changing oceans
 
 # Education to show in About widget
 education:
