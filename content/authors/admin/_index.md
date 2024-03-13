@@ -91,11 +91,15 @@ skills:
         icon: 
         icon_pack: fas
       - name: Experimental Set-up 
-        description: 'Roller tanks, ship-board microcosm & field mesocosm experiments, Gust Chamber, and Water column simulator'
+        description: 'Roller tanks, ship-board microcosm & field mesocosm experiments, Settling column and particle camera, Gust/Benthic Chamber, and Water column simulator'
         icon: 
         icon_pack: fas
       - name: Oceanographic field instruments
         description: 'CTD, Tow-fish, Sediment corer (gravity and Multicorer), plankton net, turbidity sensor and fluorometer, Multibeam and echosounders '
+        icon: 
+        icon_pack: fas
+      - name: Field training
+        description: 'Deck deployment and reviving of various instruments, drone and photogrammetry, pre-cruise planning and preparation.'
         icon: 
         icon_pack: fas
         
