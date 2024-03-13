@@ -78,7 +78,7 @@ skills:
         description: ''
         icon: 
         icon_pack: fas
-  - name: Analytical training
+  - name: Laboratory and Field training
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -92,6 +92,10 @@ skills:
         icon_pack: fas
       - name: Experimental Set-up 
         description: 'Roller tanks, ship-board microcosm & field mesocosm experiments, Gust Chamber, and Water column simulator'
+        icon: 
+        icon_pack: fas
+      - name: Oceanographic field instruments
+        description: 'CTD, Tow-fish, Sediment corer (gravity and Multicorer), plankton net, turbidity sensor and fluorometer, Multibeam and echosounders '
         icon: 
         icon_pack: fas
         
