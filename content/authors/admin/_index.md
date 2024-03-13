@@ -114,11 +114,11 @@ skills:
         description: ''
         icon: 
         icon_pack: fas
-      - name: Trace Element analysis: TIMS, ICP-MS, ICP-OES, AdCS-Voltammetry
+      - name: Trace Element analysis - TIMS, ICP-MS, ICP-OES, AdCS-Voltammetry
         description: ''
         icon: 
         icon_pack: fas
-      - name: Experimental Set-up: Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments
+      - name: Experimental Set-up - Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments
         description: ''
         icon: 
         icon_pack: fas
