@@ -43,9 +43,9 @@ header:
 
 # Site footer
 
-footer: My research compass awaits a compelling north star. Open to inquiries regarding Ph.D. research opportunities
+footer: 
   copyright:
-    notice: ''
+    notice: 'My research compass awaits a compelling north star. Open to inquiries regarding Ph.D. research opportunities'
     license:
       enable: false
       allow_derivatives: false
