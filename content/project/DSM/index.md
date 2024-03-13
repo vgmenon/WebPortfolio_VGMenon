@@ -8,6 +8,11 @@ date: '2023-12-12T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+links:
+  - icon: 
+    icon_pack: 
+    name: Follow the project
+    url: https://andrea-koschinsky.org/research-projects/miningimpact/
 image:
   caption: 
   focal_point: Smart
