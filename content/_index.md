@@ -32,8 +32,9 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              * Plan and conduct microcosm experiments (ship-board as well as roller tank experiments in laboratory) and mesocosm experiments to understand the role of heterotrophic bacteria in carbon flux in the surface ocean in the presence of clay minerals.
-              * Methodology: Spectrophotometry, Microscopy, Solid Phase Extraction, Mass Spectrometry
+              * Plan and conduct microcosm experiments (ship-board as well as roller tank experiments in laboratory) and mesocosm experiments to understand the effect of lithogenic mineral dust on particle aggregation and carbon flux in the surface ocean.
+              * Understand the dynamics of organo-mineral floc formation and its impact on carbon export from the surface ocean.
+              * Methodology: Particle analysis, Spectrophotometry, Microscopy, Solid Phase Extraction, Mass Spectrometry
         - title: Research Intern and Working Student
           company: Marine Biogeochemistry, Alfred Wegener Institute
           company_url: ''
@@ -43,7 +44,7 @@ sections:
           date_end: '2022-05-31'
           description: |2-
               * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
-              * Experiment on estimating the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out Enhanced weathering project.
+              * Estimate the critical shear velocity of Olivine sample by the implementation of a Gust chamber for simulating boundary layer shear stress conditions to determine the regimes to carry out a potential Enhanced weathering project.
         - title: Undergraduate Research Assistant
           company: Jacobs University Bremen
           company_url: ''
@@ -52,11 +53,10 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-05-31'
           description: |2-
-              * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Settling column, Aqualogger, and Water-column simulator.
+              * Sediment characteristics and dynamics analysis with the aid of instruments such as LISST-100X, Cameras, Aqualogger, and experimental set up involving water flume, Water-column simulator, and settling column.
               * Analysis of datasets for particle size distribution and settling velocity using Python, MATLAB and Image analysis using ImageJ Fiji software.
               * Preparation of bottles for sample handling and processing, following certain acid-bath/wash and GEOTRACES protocol as needed.
               * Setting up ICP-MS and ICP-OES and sample preparation.
-              * Troubleshoot the potential sources of contamination and optimise the blank by iterative blank measurements to eastablish a protocol for measuring Pt concentrations in picomolar range.
     design:
       columns: '2'
   - block: portfolio
