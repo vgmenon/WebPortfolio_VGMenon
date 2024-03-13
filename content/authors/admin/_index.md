@@ -25,13 +25,13 @@ organizations:
     url: https://home.dartmouth.edu/dartmouth
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
+bio: I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. My research currently focuses on understanding the impact of lithogenic minerals dust on particle aggregation and dynamics in the surface ocean; to understand its implications on the organo-mineral interactions, biogeochemical changes (specifically the role of heterotrophic bacteria in forming these aggregates) and ultimately assess its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing particle image analysis, sensors, microscopy, spectrophotometry, and mass spectrometry.
 
 # Interests to show in About widget
 interests:
   - Marine biogeochemistry
-  - Trace metal cycling
-  - Tracers and ocean ciruclation
+  - Marine particle dynamics
+  - Surface ocean carbon flux
 
 # Education to show in About widget
 education:
@@ -48,20 +48,21 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python - Data analysis and processing
         description: ''
-        icon: python
         percent: 0
         icon_pack: fab
-      - name: MATLAB & R
+      - name: Matlab - Data analysis, processing, & plotting
         description: ''
-        icon: chart-line
+        percent: 0
+        icon_pack: fab
+      - name: R - Statistical analysis and Plotting
+        description: ''
         icon_pack: fas
       - name: GIS [Arc- & Q-]
         description: ''
-        icon: globe
         icon_pack: fas
-      - name: ImageJ Fiji
+      - name: ImageJ Fiji - Particle analysis
         description: ''
         icon: 
         icon_pack: fas
@@ -109,15 +110,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: ICP-MS (trace elements) and ICP-OES (Major elements)
+      - name: Particle analysis - LISST, Aqualogger, Camera
         description: ''
         icon: 
         icon_pack: fas
-      - name: TIMS
+      - name: Trace Element analysis: TIMS, ICP-MS, ICP-OES, AdCS-Voltammetry
         description: ''
-        icon:
+        icon: 
         icon_pack: fas
-      - name: AdCS-Voltammetry
+      - name: Experimental Set-up: Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments
         description: ''
         icon: 
         icon_pack: fas
