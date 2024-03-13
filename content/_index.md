@@ -145,7 +145,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: Education
+  - block: Experience
     id: Education
     content:
       title: Education
