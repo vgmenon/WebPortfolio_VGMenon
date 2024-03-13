@@ -145,10 +145,10 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
-    id: experience
+  - block: Education
+    id: Education
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -168,7 +168,8 @@ sections:
           description: |2-
               Awards:
               * Dartmouth Graduate Student Fellowship {2022-Present} |
-              * Guarini School of Graduate and advanced studies travel award (ASLO-ASM'23)
+              * Guarini School of Graduate and advanced studies travel award (ASLO-ASM'23) |
+              * Dartmouth GSC student support fund (AGU-OSM'24) 
         - title: BSc Earth and Environmental Sciences
           company: Constructor (formerly Jacobs) University Bremen
           company_url: 'https://constructor.university/programs/undergraduate-education/earth-environmental-sciences'
