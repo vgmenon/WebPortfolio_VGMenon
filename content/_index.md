@@ -40,7 +40,7 @@ sections:
           company_url: ''
           company_logo: AWI
           location: Bremerhaven, Germany
-          date_start: '2020-08-01'
+          date_start: '2021-08-01'
           date_end: '2022-05-31'
           description: |2-
               * Carry out field sampling for soil pore water and lysimeter samples, and prepare nutrient, cations, isotope, DIC and Alkalinity samples for measurement on a weekly basis.
