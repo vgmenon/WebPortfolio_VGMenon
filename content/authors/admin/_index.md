@@ -78,6 +78,23 @@ skills:
         description: ''
         icon: 
         icon_pack: fas
+  - name: Analytical training
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Particle analysis
+        description: 'LISST, Aqualogger turbidity sensor, Camera'
+        icon: 
+        icon_pack: fas
+      - name: Trace Element analysis 
+        description: 'IMS, ICP-MS, ICP-OES, AdCS-Voltammetry'
+        icon: 
+        icon_pack: fas
+      - name: Experimental Set-up 
+        description: 'Roller tanks, ship-board microcosm & field mesocosm experiments, Gust Chamber, and Water column simulator'
+        icon: 
+        icon_pack: fas
+        
   - name: Languages
     color: '#eeac03'
     color_border: '#f0bf23'
@@ -106,22 +123,7 @@ skills:
         description: ''
         icon: sanskrit
         icon_pack: fas
-  - name: Analytical training
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Particle analysis
-        description: 'LISST, Aqualogger, Camera'
-        icon: 
-        icon_pack: fas
-      - name: Trace Element analysis 
-        description: 'IMS, ICP-MS, ICP-OES, AdCS-Voltammetry'
-        icon: 
-        icon_pack: fas
-      - name: Experimental Set-up 
-        description: 'Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments'
-        icon: 
-        icon_pack: fas
+
   - name: Hobbies
     items:
       - name: Hiking
