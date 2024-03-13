@@ -32,6 +32,7 @@ marketing:
 # Site header
 
 header:
+  notice: 'My research compass awaits a compelling north star. Open to inquiries regarding Ph.D. research opportunities'
   navbar:
     enable: true
     align: l
