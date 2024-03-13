@@ -110,16 +110,16 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Particle analysis - LISST, Aqualogger, Camera
-        description: ''
+      - name: Particle analysis
+        description: 'LISST, Aqualogger, Camera'
         icon: 
         icon_pack: fas
-      - name: Trace Element analysis - TIMS, ICP-MS, ICP-OES, AdCS-Voltammetry
-        description: ''
+      - name: Trace Element analysis 
+        description: 'IMS, ICP-MS, ICP-OES, AdCS-Voltammetry'
         icon: 
         icon_pack: fas
-      - name: Experimental Set-up - Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments
-        description: ''
+      - name: Experimental Set-up 
+        description: 'Roller tanks, Gust Chamber, Water column simulator, ship-board microcosm and field mesocosm experiments'
         icon: 
         icon_pack: fas
   - name: Hobbies
@@ -165,5 +165,5 @@ social:
 highlight_name: true
 ---
 
-I am a graduate student in the Department of Earth Sciences at Dartmouth College. I research on the interplay between clay minerals and heterotrophic bacteria in the surface ocean; to understand its implications on the organo-microbial interactions, trace metal cycling and ultimately its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing microscopy, spectrophotometry, and mass spectrometry.
+I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. My research currently focuses on understanding the impact of lithogenic minerals dust on particle aggregation and dynamics in the surface ocean; to understand its implications on the organo-mineral interactions, biogeochemical changes (specifically the role of heterotrophic bacteria in forming these aggregates) and ultimately assess its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing particle image analysis, sensors, microscopy, spectrophotometry, and mass spectrometry.
 {style="text-align: justify;"}
