@@ -12,7 +12,7 @@ links:
   - icon: 
     icon_pack: 
     name: Follow the project
-    url: https://andrea-koschinsky.org/research-projects/miningimpact/
+    url: https://info.constructor.university/news/manganese-nodules-project-environmental-impact-during-deep-sea-mining
 image:
   caption: 
   focal_point: Smart
