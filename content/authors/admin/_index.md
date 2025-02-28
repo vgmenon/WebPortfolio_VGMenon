@@ -25,7 +25,7 @@ organizations:
     url: https://www.gu.se/en/about/find-staff/vigneshgokuladasmenon
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Doctoral condiate at the Department of Marine Sciences, University of Gothenburg. My research currently focuses on understanding the impact of anthropogenic disturbances, particularly bottom trawling and deep sea mining, on the deep sea sediment dynamics. Such acitivities significantly alter the natural sediment aggregation and transport processes, influencing spatial and temporal variation in sediment properties such as density, size distribution and settling velocity, ultimately dictating the residence time of the thus forming sediment plumes. My research aims to investigate the formation and behavior of sediment plumes and fluid mud layers, exploring their implications across four key areas (1) physico-chemical controls on fluid mud formation, (2) interaction with seafloor topography and transition to gravity currents, (3) ecological consequences for benthic communities, and (4) impacts on seabed carbon remineralization and sequestration. Through an interdisciplinary approach integrating geological, physical, and biological perspectives, I seek to enhance our understanding of sediment transport mechanisms in the deep-sea.
+bio: I am a Doctoral condiate at the Department of Marine Sciences, University of Gothenburg. My research currently focuses on understanding the impact of anthropogenic disturbances, particularly bottom trawling and deep sea mining, on the deep sea sediment dynamics. Such acitivities significantly alter the natural sediment aggregation and transport processes, influencing spatial and temporal variation in sediment properties such as density, size distribution and settling velocity, ultimately dictating the residence time of the thus forming sediment plumes. My research aims to investigate the formation and behavior of sediment plumes and fluid mud layers, exploring their implications across four key areas (1) physico-chemical controls on fluid mud formation, (2) interaction with seafloor topography and transition to gravity currents, (3) ecological consequences for benthic communities, and (4) impacts on seabed carbon remineralization and sequestration. Through an interdisciplinary approach integrating geological, physical, and biological perspectives, I seek to enhance our understanding of sediment transport mechanisms in the deep-sea.
 
 # Interests to show in About widget
 interests:
@@ -36,10 +36,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Earth Sciences
+    - course: PhD Marine Sciences
+      institution: University of Gothenburg
+      year: 2024
+    - course: MS Earth Sciences
       institution: Dartmouth College
       year: 2024
-    - course: BSc in Earth and Environmental Sciences
+    - course: BSc Earth and Environmental Sciences
       institution: Jacobs (Constructor) University Bremen
       year: 2022
 
@@ -176,5 +179,5 @@ highlight_name: true
 ---
 
 {style="text-align: justify;"}
-The ocean’s vastness and complexity serve as a constant reminder of the humility we must embrace as scientists, and it is this humility that compels us to seek out more, for learning is lifelong, and lifelong is learning. I am currently a Doctoral condiate at the Department of Marine Sciences, University of Gothenburg. My research currently focuses on understanding the impact of anthropogenic disturbances, particularly bottom trawling and deep sea mining, on the deep sea sediment dynamics. Such acitivities significantly alter the natural sediment aggregation and transport processes, influencing spatial and temporal variation in sediment properties such as density, size distribution and settling velocity, ultimately dictating the residence time of the thus forming sediment plumes. My research aims to investigate the formation and behavior of sediment plumes and fluid mud layers, exploring their implications across four key areas (1) physico-chemical controls on fluid mud formation, (2) interaction with seafloor topography and transition to gravity currents, (3) ecological consequences for benthic communities, and (4) impacts on seabed carbon remineralization and sequestration. Through an interdisciplinary approach integrating geological, physical, and biological perspectives, I seek to enhance our understanding of sediment transport mechanisms in the deep-sea.
+The ocean’s vastness and complexity serve as a constant reminder of the humility we must embrace as scientists, and it is this humility that compels us to seek out more, for learning is lifelong, and lifelong is learning. I am a Doctoral condiate at the Department of Marine Sciences, University of Gothenburg. My research currently focuses on understanding the impact of anthropogenic disturbances, particularly bottom trawling and deep sea mining, on the deep sea sediment dynamics. Such acitivities significantly alter the natural sediment aggregation and transport processes, influencing spatial and temporal variation in sediment properties such as density, size distribution and settling velocity, ultimately dictating the residence time of the thus forming sediment plumes. My research aims to investigate the formation and behavior of sediment plumes and fluid mud layers, exploring their implications across four key areas (1) physico-chemical controls on fluid mud formation, (2) interaction with seafloor topography and transition to gravity currents, (3) ecological consequences for benthic communities, and (4) impacts on seabed carbon remineralization and sequestration. Through an interdisciplinary approach integrating geological, physical, and biological perspectives, I seek to enhance our understanding of sediment transport mechanisms in the deep-sea.
 {style="text-align: justify;"}
