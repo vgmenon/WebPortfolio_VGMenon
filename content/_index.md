@@ -161,7 +161,7 @@ sections:
         - title: PhD Marine Sciences
           company: University of Gothenburg
           company_url: 'https://www.gu.se/en/marina-vetenskaper/doctoral-studies'
-          company_logo: ugot.jpeg
+          company_logo: ugot
           location: Gothenburg, Sweden
           date_start: '2024-09-01'
           date_end: ''
