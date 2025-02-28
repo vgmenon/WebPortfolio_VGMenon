@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Earth and Environmental Sciences
+role: Doctoral Student in Marine Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dartmouth College
-    url: https://home.dartmouth.edu/dartmouth
+  - name: University of Gothenburg | Kristineberg Center for Marine Research and Innovation
+    url: https://www.gu.se/en/about/find-staff/vigneshgokuladasmenon
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. My research currently focuses on understanding the impact of lithogenic minerals dust on particle aggregation and dynamics in the surface ocean; to understand its implications on the organo-mineral interactions, biogeochemical changes (specifically the role of heterotrophic bacteria in forming these aggregates) and ultimately assess its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing particle image analysis, sensors, microscopy, spectrophotometry, and mass spectrometry.
