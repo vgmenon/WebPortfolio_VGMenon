@@ -165,6 +165,11 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2024-09-01'
           date_end: ''
+          description: |2-
+              Awards:
+              * Dartmouth Graduate Student Fellowship {2022-Present} |
+              * Guarini School of Graduate and advanced studies travel award (ASLO-ASM'23) |
+              * Dartmouth GSC student support fund (AGU-OSM'24) 
         - title: MS Earth Sciences
           company: Dartmouth College
           company_url: 'https://earthsciences.dartmouth.edu'
