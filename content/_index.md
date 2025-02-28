@@ -204,16 +204,15 @@ sections:
       email: vigneshgokulmenon@gmail.com
       phone: 8606985735
       address:
-        street: 19 Fayerweather Hill Rd
-        city: Hanover
-        region: NH
-        postcode: '03755'
-        country: United States
-        country_code: US
+        street: Kristineberg 566
+        city: Fiskebäckskil
+        postcode: '45178'
+        country: Sweden
+        country_code: SE
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '43.705933' 
-        longitude: '-72.286450'  
+        latitude: '58.24961998303168'
+        longitude: '11.445922205150769'  
       # Automatically link email and phone or display as text?
       autolink: true
     design:
