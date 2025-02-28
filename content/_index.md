@@ -176,7 +176,7 @@ sections:
           company_logo: dpine
           location: New Hampshire, USA
           date_start: '2022-09-01'
-          date_end: '2024-08/27'
+          date_end: '2024-08-27'
           description: |2-
               Awards:
               * Dartmouth Graduate Student Fellowship {2022-Present} |
