@@ -158,13 +158,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Marine Sciences
+          company: University of Gothenburg
+          company_url: 'https://www.gu.se/en/marina-vetenskaper/doctoral-studies'
+          company_logo: dpine
+          location: Gothenburg, Sweden
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
         - title: MS Earth Sciences
           company: Dartmouth College
           company_url: 'https://earthsciences.dartmouth.edu'
           company_logo: dpine
           location: New Hampshire, USA
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2024-08/27'
           description: |2-
               Awards:
               * Dartmouth Graduate Student Fellowship {2022-Present} |
