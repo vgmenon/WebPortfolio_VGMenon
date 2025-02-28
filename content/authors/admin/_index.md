@@ -21,22 +21,24 @@ role: Doctoral Student in Marine Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Gothenburg | Kristineberg Center for Marine Research and Innovation
+  - name: University of Gothenburg Kristineberg Center for Marine Research and Innovation
     url: https://www.gu.se/en/about/find-staff/vigneshgokuladasmenon
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a graduate student in the Department of Earth Sciences at Dartmouth College. My research currently focuses on understanding the impact of lithogenic minerals dust on particle aggregation and dynamics in the surface ocean; to understand its implications on the organo-mineral interactions, biogeochemical changes (specifically the role of heterotrophic bacteria in forming these aggregates) and ultimately assess its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing particle image analysis, sensors, microscopy, spectrophotometry, and mass spectrometry.
+bio: I am currently a graduate student in the Department of Marine Sciences at the University of Gothenburg. My research currently focuses on understanding the impact of lithogenic minerals dust on particle aggregation and dynamics in the surface ocean; to understand its implications on the organo-mineral interactions, biogeochemical changes (specifically the role of heterotrophic bacteria in forming these aggregates) and ultimately assess its implications on the carbon sequestration efficiency of the Biological Carbon Pump. I delve into this intricate relationship through a diverse methodological toolbox, encompassing particle image analysis, sensors, microscopy, spectrophotometry, and mass spectrometry.
 
 # Interests to show in About widget
 interests:
   - Marine biogeochemistry
   - Marine particle dynamics
-  - Surface ocean carbon flux
-  - Changing oceans
+  - Deep sea monitoring and restoration
 
 # Education to show in About widget
 education:
   courses:
+   - course: PhD in Marine Sciences
+      institution: University of Gothenburg
+      year: 2028
     - course: MS in Earth Sciences
       institution: Dartmouth College
       year: 2024
