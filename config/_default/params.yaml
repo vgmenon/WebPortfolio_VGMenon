@@ -32,7 +32,7 @@ marketing:
 # Site header
 
 header:
-  notice: 'My research compass awaits a compelling north star. Open to Ph.D. research opportunities'
+  notice: 'Learning is lifelong, Lifelong is learning'
   navbar:
     enable: true
     align: l
@@ -46,7 +46,7 @@ header:
 
 footer: 
   copyright:
-    notice: 'My research compass awaits a compelling north star. Open to Ph.D. research opportunities'
+    notice: 'Learning is lifelong, Lifelong is learning'
     license:
       enable: false
       allow_derivatives: false
