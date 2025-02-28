@@ -36,9 +36,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Marine Sciences
-      institution: University of Gothenburg
-      year: 2028
     - course: MS in Earth Sciences
       institution: Dartmouth College
       year: 2024
