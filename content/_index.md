@@ -165,7 +165,6 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2024-09-01'
           date_end: ''
-          description: |2-
         - title: MS Earth Sciences
           company: Dartmouth College
           company_url: 'https://earthsciences.dartmouth.edu'
