@@ -29,16 +29,17 @@ bio: I am a Doctoral condiate at the Department of Marine Sciences, University o
 
 # Interests to show in About widget
 interests:
+  - Deep-sea sediment dynamics
   - Marine biogeochemistry
-  - Marine particle dynamics
-  - Deep sea monitoring and restoration
+  - Deep-sea monitoring technology
+  - Carbon Sequestration
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD Marine Sciences
       institution: University of Gothenburg
-      year: 2024
+      year: 2028
     - course: MS Earth Sciences
       institution: Dartmouth College
       year: 2024
